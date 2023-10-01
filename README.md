@@ -1,3 +1,6 @@
+<p align="center"><img src="https://media.giphy.com/media/WT3ulJmR8Fv1fidZIK/giphy.gif"></p>
+
+
 # Приветствую тебя!
 
 Вероятно ты не очень опытен в использовании git, поэтому я покажу тебе самые основы в использовании окружения github.
